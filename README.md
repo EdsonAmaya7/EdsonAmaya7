@@ -6,10 +6,11 @@
 </h1>
 
 
+<!-- <img width="309" alt="Captura de pantalla 2022-06-22 213931" src="https://user-images.githubusercontent.com/71991189/175201436-b2a6fbf8-a0a1-4f28-af7c-339ec9c870de.png"> -->
 
 
 <p align="center">
-<img src="samuraiDog.gif" alt=""></img>
+<img src="./samuraiDog.gif" alt=""></img>
 </p>
 
 <p align="center"><img src="https://profile-counter.glitch.me/%7BAEdsonAmaya7%7D/count.svg" alt="Edson Visitor's Count" /></p>
