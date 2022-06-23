@@ -1,4 +1,20 @@
-### Hi there 👋
+### 
+
+<h1>
+    Hi there, I'm Edson Amaya
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+</h1>
+
+
+
+
+<p align="center">
+<img src="samuraiDog.gif" alt=""></img>
+</p>
+
+<p align="center"><img src="https://profile-counter.glitch.me/%7BAEdsonAmaya7%7D/count.svg" alt="Edson Visitor's Count" /></p>
+
+
 
 <!--
 **EdsonAmaya7/EdsonAmaya7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
