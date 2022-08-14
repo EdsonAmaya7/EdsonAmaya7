@@ -7,8 +7,7 @@
 
 
 <h2 align="center">
-  <a href="https://github.com/EdsonAmaya7"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20love%20being%20challenged.;%20Always%20learnign%20and%20growing;as%20person%20and%20a%20developer.;
-  %20I%20have%20a%20deep%20passion%20for%20learning.;&center=true&width=500&height=45"></a>
+  <a href="https://github.com/EdsonAmaya7"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20love%20being%20challenged.;%20Always%20learnign%20and%20growing;as%20person%20and%20a%20developer;%20I%20have%20a%20deep%20passion%20for%20learning.;&center=true&width=500&height=45"></a>
 </h2>
 
 
