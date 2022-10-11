@@ -21,7 +21,7 @@
 
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonAmaya7&langs_count=10&theme=tokyonight&layout=compact" alt="" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonAmaya7&langs_count=100&theme=tokyonight&layout=compact" alt="" /></p>
 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=EdsonAmaya7&show_icons=true&theme=radical" alt="" /></p>
